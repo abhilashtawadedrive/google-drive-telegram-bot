@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1252278849:AAHjuofXUH7N20eWUqhhXY3vfJBgNHwEtSI"
+    APP_ID = "2042554"
+    API_HASH = "18c6e72991615998b31fccfa9a724aee"
+    DATABASE_URL = "postgres://gtojywvpcbhvpn:f902bb1f9233b8d77100320a91b29ae472c9cf50071739d5bc07fa2688fbd43f@ec2-54-205-248-255.compute-1.amazonaws.com:5432/d44f6ondtn5nri"
+    SUDO_USERS = "826039871" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/rrefine"
     DOWNLOAD_DIRECTORY = "./downloads/"
 
 
